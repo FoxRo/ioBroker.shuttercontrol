@@ -1,8 +1,80 @@
 {
   "common": {
     "name": "shuttercontrol",
-    "version": "1.4.12",
+    "version": "1.4.18",
     "news": {
+      "1.4.18": {
+        "en": "Bugfixes Button Action",
+        "de": "Bugfixes Button Aktion",
+        "ru": "Bugfixes Кнопка Action",
+        "pt": "Bugfixs Button Ação",
+        "nl": "Bugfixs Button Act",
+        "fr": "Bugfixes Button Action",
+        "it": "Bugfixs Button Azione",
+        "es": "Bugfixes Button Action",
+        "pl": "Akcji Buttona",
+        "zh-cn": "Bugfixing Button行动"
+      },
+      "1.4.17": {
+        "en": "small Bugfixes",
+        "de": "kleine Bugfixes",
+        "ru": "небольшие багфиксы",
+        "pt": "pequenos bugs",
+        "nl": "kleine Bugfix",
+        "fr": "petites Bugfixes",
+        "it": "piccoli bugfix",
+        "es": "pequeños Bugfixes",
+        "pl": "mały Bugfix",
+        "zh-cn": "小额Bugfix"
+      },
+      "1.4.16": {
+        "en": "small Bugfixes\nDependencies updated\nDev-Dependencies updated\nDocu updated\ntravis deleted\nupdate translation\ndebug for shutterstate added",
+        "de": "kleine Bugfixes\nAusgaben aktualisiert\nDependencies aktualisiert\nDocu aktualisiert\ntravis gelöscht\nübersetzung aktualisieren\ndebug für shutterstate hinzugefügt",
+        "ru": "небольшие багфиксы\nОбновленные зависимости\nDev-Dependencies обновлено\nDocu обновление\ntravis удален\nобновление перевода\nотладка для затвора добавлена",
+        "pt": "pequenos bugs\nDependências atualizadas\nDev-Dependencies Atualizado\nDocu atualizado\ntravis excluído\natualização\ndebug for shutterstate adicionado",
+        "nl": "kleine Bugfix\nAfhankelijkheid geüpdateerd\nVertaling:\nDocu update\ntravis verwijderd\nvertaling:\ndebug voor sluitingstijd",
+        "fr": "petites Bugfixes\nDépendances mises à jour\nDev-Dependencies updated\nDocu updated\ntravis supprimé\nmise à jour traduction\ndebug for shutterstate added",
+        "it": "piccoli bugfix\nDipendenze aggiornate\nDev-Dependencies aggiornato\nDocu aggiornato\ntravis cancellato\naggiornamento\ndebug per shutterstate aggiunto",
+        "es": "pequeños Bugfixes\nActualización de las dependencias\nDev-Dependencies updated\nDocu actualizado\ntravis suprimida\nactualización\ndepuración para obturación añadido",
+        "pl": "mały Bugfix\nZależności\nDev-Dependencies (ang.)\nDocu zaktualizował\ntravis usunąć\ntranslacja\ndebugowanie zamkowe",
+        "zh-cn": "小额Bugfix\nB. 更新的属地\nDev-Dependus更新\n附录\n删除\n更新\n穿越国"
+      },
+      "1.4.15": {
+        "en": "small Bugfixes\nDependencies updated\nDev-Dependencies updated\nDocu updated\ntravis deleted\nupdate translation\ndebug for shutterstate added",
+        "de": "kleine Bugfixes\nAusgaben aktualisiert\nDependencies aktualisiert\nDocu aktualisiert\ntravis gelöscht\nübersetzung aktualisieren\ndebug für shutterstate hinzugefügt",
+        "ru": "небольшие багфиксы\nОбновленные зависимости\nDev-Dependencies обновлено\nDocu обновление\ntravis удален\nобновление перевода\nотладка для затвора добавлена",
+        "pt": "pequenos bugs\nDependências atualizadas\nDev-Dependencies Atualizado\nDocu atualizado\ntravis excluído\natualização\ndebug for shutterstate adicionado",
+        "nl": "kleine Bugfix\nAfhankelijkheid geüpdateerd\nVertaling:\nDocu update\ntravis verwijderd\nvertaling:\ndebug voor sluitingstijd",
+        "fr": "petites Bugfixes\nDépendances mises à jour\nDev-Dependencies updated\nDocu updated\ntravis supprimé\nmise à jour traduction\ndebug for shutterstate added",
+        "it": "piccoli bugfix\nDipendenze aggiornate\nDev-Dependencies aggiornato\nDocu aggiornato\ntravis cancellato\naggiornamento\ndebug per shutterstate aggiunto",
+        "es": "pequeños Bugfixes\nActualización de las dependencias\nDev-Dependencies updated\nDocu actualizado\ntravis suprimida\nactualización\ndepuración para obturación añadido",
+        "pl": "mały Bugfix\nZależności\nDev-Dependencies (ang.)\nDocu zaktualizował\ntravis usunąć\ntranslacja\ndebugowanie zamkowe",
+        "zh-cn": "小额Bugfix\nB. 更新的属地\nDev-Dependus更新\n附录\n删除\n更新\n穿越国"
+      },
+      "1.4.14": {
+        "en": "delay for Lightsensor added\nDependencies updated\nDev-Dependencies updated",
+        "de": "Verzögerung für Lichtsensor hinzugefügt\nAbhängigkeiten aktualisiert\nDev-Abhängigkeiten aktualisiert",
+        "ru": "добавлена задержка для Lightsensor\nЗависимости обновлены\nОбновлены Dev-зависимости",
+        "pt": "atraso para Lightsensor adicionado\nDependências atualizadas\nDependências de desenvolvimento atualizadas",
+        "nl": "vertraging voor lichtsensor toegevoegd\nAfhankelijkheden bijgewerkt\nDev-afhankelijkheden bijgewerkt",
+        "fr": "délai pour le capteur de lumière ajouté\nDépendances mises à jour\nDev-Dépendances mises à jour",
+        "it": "ritardo per sensore di luce aggiunto\nDipendenze aggiornate\nDev-dipendenze aggiornate",
+        "es": "retardo para Lightsensor agregado\nDependencias actualizadas\nDependencias de desarrollo actualizadas",
+        "pl": "Dodano opóźnienie dla czujnika światła\nZaktualizowano zależności\nZaktualizowano zależności deweloperskie",
+        "zh-cn": "添加了光传感器的延迟\n已更新依赖项\n已更新开发依赖项"
+      },
+      "1.4.13": {
+        "en": "Bugfix Alarm handling\nDependencies updated\nDev-Dependencies updated\nmore debuglog for Trigger",
+        "de": "Bugfix Alarmbehandlung\nAbhängigkeiten aktualisiert\nDev-Abhängigkeiten aktualisiert\nmehr debuglog für Trigger",
+        "ru": "Обработка сигналов тревоги\nЗависимости обновлены\nОбновлены Dev-зависимости\nбольше отладочного журнала для триггера",
+        "pt": "Manipulação de alarmes de correção de bugs\nDependências atualizadas\nDependências de desenvolvimento atualizadas\nmais debuglog para Trigger",
+        "nl": "Bugfix Alarmafhandeling\nAfhankelijkheden bijgewerkt\nDev-afhankelijkheden bijgewerkt\nmeer debuglog voor Trigger",
+        "fr": "Gestion des alarmes\nDépendances mises à jour\nDev-Dépendances mises à jour\nplus de débogage pour Trigger",
+        "it": "Bugfix Gestione degli allarmi\nDipendenze aggiornate\nDev-dipendenze aggiornate\npiù debuglog per Trigger",
+        "es": "Corrección de errores Manejo de alarmas\nDependencias actualizadas\nDependencias de desarrollo actualizadas\nmás registro de depuración para Trigger",
+        "pl": "Obsługa alarmów\nZaktualizowano zależności\nZaktualizowano zależności deweloperskie\nwięcej dziennika debugowania dla wyzwalacza",
+        "zh-cn": "错误修正警报处理\n已更新依赖项\n已更新开发依赖项\n触发器的更多调试日志"
+      },
       "1.4.12": {
         "en": "Bugfix wrongly open after deactivation of weater alarm\nDependencies updated\nDev-Dependencies updated",
         "de": "Bugfix fälschlicherweise nach Deaktivierung des Wetteralarms geöffnet\nAbhängigkeiten aktualisiert\nDev-Abhängigkeiten aktualisiert",
@@ -14,78 +86,6 @@
         "es": "Corrección de error de apertura incorrecta después de la desactivación de la alarma meteorológica\nDependencias actualizadas\nDependencias de desarrollo actualizadas",
         "pl": "Bugfix niepoprawnie otwiera się po dezaktywacji alarmu pogodowego\nZaktualizowano zależności\nZaktualizowano zależności programistyczne",
         "zh-cn": "修正了禁用水警报后错误打开的问题\n已更新依赖项\n已更新开发依赖项"
-      },
-      "1.4.11": {
-        "en": "fix objects value\nDependencies updated\nDev-Dependencies updated",
-        "de": "Objektwert fixieren\nAbhängigkeiten aktualisiert\nDev-Abhängigkeiten aktualisiert",
-        "ru": "исправить стоимость объектов\nЗависимости обновлены\nОбновлены Dev-зависимости",
-        "pt": "corrigir o valor dos objetos\nDependências atualizadas\nDependências de desenvolvimento atualizadas",
-        "nl": "waarde van objecten repareren\nAfhankelijkheden bijgewerkt\nDev-afhankelijkheden bijgewerkt",
-        "fr": "fixer la valeur des objets\nDépendances mises à jour\nDev-Dépendances mises à jour",
-        "it": "correggere il valore degli oggetti\nDipendenze aggiornate\nDev-dipendenze aggiornate",
-        "es": "fijar el valor de los objetos\nDependencias actualizadas\nDependencias de desarrollo actualizadas",
-        "pl": "napraw wartość obiektów\nZaktualizowano zależności\nZaktualizowano zależności programistyczne",
-        "zh-cn": "修复对象值\n已更新依赖项\n已更新开发依赖项"
-      },
-      "1.4.10": {
-        "en": "Bugfix xmas time\nBugfix Shutter delay\nDependencies updated\nDev-Dependencies updated",
-        "de": "Bugfix Weihnachtszeit\nBugfix Verschlussverzögerung\nAbhängigkeiten aktualisiert\nDev-Abhängigkeiten aktualisiert",
-        "ru": "Исправлено рождественское время\nЗадержка затвора\nЗависимости обновлены\nОбновлены Dev-зависимости",
-        "pt": "Correção de bugs na hora do natal\nAtraso do obturador de correção de bug\nDependências atualizadas\nDependências de desenvolvimento atualizadas",
-        "nl": "Bugfix kersttijd\nBugfix Sluitervertraging\nAfhankelijkheden bijgewerkt\nDev-afhankelijkheden bijgewerkt",
-        "fr": "Correction de bugs à Noël\nDélai d'obturation\nDépendances mises à jour\nDev-Dépendances mises à jour",
-        "it": "Bug fix tempo di Natale\nBugfix Ritardo dell'otturatore\nDipendenze aggiornate\nDev-dipendenze aggiornate",
-        "es": "Corrección de errores tiempo de Navidad\nCorrección de errores Retraso del obturador\nDependencias actualizadas\nDependencias de desarrollo actualizadas",
-        "pl": "Świąteczny czas na naprawę błędów\nOpóźnienie migawki\nZaktualizowano zależności\nZaktualizowano zależności deweloperskie",
-        "zh-cn": "错误修复圣诞节时间\n修正快门延迟\n已更新依赖项\n已更新开发依赖项"
-      },
-      "1.4.9": {
-        "en": "error handling for trigger added\nBugfix Trigger delay\nDependencies updated\nDev-Dependencies updated",
-        "de": "Fehlerbehandlung für Trigger hinzugefügt\nBugfix Triggerverzögerung\nAbhängigkeiten aktualisiert\nEntwicklungsabhängigkeiten aktualisiert",
-        "ru": "добавлена обработка ошибок для триггера\nBugfix Задержка срабатывания триггера\nЗависимости обновлены\nОбновлены зависимости Dev-Dependencies",
-        "pt": "tratamento de erros para gatilho adicionado\nBug fix Trigger delay\nDependências atualizadas\nDev-Dependencies atualizado",
-        "nl": "foutafhandeling voor trigger toegevoegd\nBugfix Trigger vertraging\nAfhankelijkheden bijgewerkt\nDev-afhankelijkheden bijgewerkt",
-        "fr": "gestion des erreurs pour le déclencheur ajouté\nRetard de déclenchement\nDépendances mises à jour\nDépendances de développement mises à jour",
-        "it": "gestione degli errori per il trigger aggiunto\nBugfix Ritardo di attivazione\nDipendenze aggiornate\nDev-dipendenze aggiornate",
-        "es": "manejo de errores para el disparador agregado\nRetraso del disparador de corrección de errores\nDependencias actualizadas\nDependencias de desarrollo actualizadas",
-        "pl": "dodano obsługę błędów dla wyzwalacza\nOpóźnienie wyzwalania błędów\nZaktualizowano zależności\nZaktualizowano zależności programistyczne",
-        "zh-cn": "添加触发器的错误处理\n错误修正触发延迟\n更新了依赖项\n开发依赖更新"
-      },
-      "1.4.8": {
-        "en": "error handling for trigger added\nBugfix Trigger delay",
-        "de": "Fehlerbehandlung für Trigger hinzugefügt\nBugfix Triggerverzögerung",
-        "ru": "добавлена обработка ошибок для триггера\nBugfix Задержка срабатывания триггера",
-        "pt": "tratamento de erros para gatilho adicionado\nBug fix Trigger delay",
-        "nl": "foutafhandeling voor trigger toegevoegd\nBugfix Trigger vertraging",
-        "fr": "gestion des erreurs pour le déclencheur ajouté\nRetard de déclenchement",
-        "it": "gestione degli errori per il trigger aggiunto\nBugfix Ritardo di attivazione",
-        "es": "manejo de errores para el disparador agregado\nRetraso del disparador de corrección de errores",
-        "pl": "dodano obsługę błędów dla wyzwalacza\nOpóźnienie wyzwalania błędu",
-        "zh-cn": "添加触发器的错误处理\n错误修正触发延迟"
-      },
-      "1.4.7": {
-        "en": "complete error handling for states added\nBugfix Down Late Option\nsmall Bugfixes\nDependencies updated\nDev-Dependencies updated",
-        "de": "komplette Fehlerbehandlung für Zustände hinzugefügt\nBugfix Down Late Option\nkleine Bugfixes\nAbhängigkeiten aktualisiert\nEntwicklungsabhängigkeiten aktualisiert",
-        "ru": "добавлена полная обработка ошибок для состояний\nИсправление ошибки с опозданием\nнебольшие исправления\nЗависимости обновлены\nОбновлены зависимости Dev-Dependencies",
-        "pt": "tratamento de erros completo para estados adicionados\nOpção de correção de bug para baixo\npequenas correções de bugs\nDependências atualizadas\nDev-Dependencies atualizado",
-        "nl": "volledige foutafhandeling voor staten toegevoegd\nBugfix Down Late Optie\nkleine bugfixes\nAfhankelijkheden bijgewerkt\nDev-afhankelijkheden bijgewerkt",
-        "fr": "gestion complète des erreurs pour les états ajoutés\nOption de correction de bugs en retard\npetites corrections de bugs\nDépendances mises à jour\nDépendances de développement mises à jour",
-        "it": "gestione completa degli errori per gli stati aggiunti\nOpzione correzione bug in ritardo\npiccole correzioni di bug\nDipendenze aggiornate\nDev-dipendenze aggiornate",
-        "es": "manejo completo de errores para los estados agregados\nOpción de corrección de errores hacia abajo\npequeñas correcciones de errores\nDependencias actualizadas\nDependencias de desarrollo actualizadas",
-        "pl": "dodano pełną obsługę błędów dla stanów\nOpcja późnego naprawiania błędów\nmałe poprawki\nZaktualizowano zależności\nZaktualizowano zależności programistyczne",
-        "zh-cn": "添加状态的完整错误处理\n错误修正下延迟选项\n小错误修正\n更新了依赖项\n开发依赖更新"
-      },
-      "1.4.6": {
-        "en": "Bugfixes shuttersettings\nBugfix shutter created",
-        "de": "Bugfixes Verschlusseinstellungen\nBugfix Shutter erstellt",
-        "ru": "Исправления shuttersettings\nИсправление шторки создано",
-        "pt": "Correções de bugs configurações do obturador\nObturador de correção de bug criado",
-        "nl": "Bugfixes sluiterinstellingen\nBugfix sluiter gemaakt",
-        "fr": "Corrections de bugs sur les paramètres d'obturation\nObturateur de correction de bug créé",
-        "it": "Correzioni di bug nelle impostazioni dell'otturatore\nBugfix otturatore creato",
-        "es": "Corrección de errores de configuración de persianas\nObturador de corrección de errores creado",
-        "pl": "Poprawki ustawień migawki\nUtworzono migawkę z poprawką błędów",
-        "zh-cn": "错误修正百叶窗设置\n已创建错误修复快门"
       }
     },
     "title": "shuttercontrol",
